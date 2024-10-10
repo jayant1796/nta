@@ -15,9 +15,6 @@ A powerful Python-based tool for capturing and analyzing network traffic in real
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
-- [Project Structure](#project-structure)
-- [License](#license)
 
 ---
 
